@@ -83,7 +83,7 @@ Perform the following operations:
 
 ---
 
-## Task 7: Basic Data Analysis 
+## Task 6: Basic Data Analysis 
 
 - Count total number of employees using `COUNT` or `COUNTA`
 - Identify how many employees are:
